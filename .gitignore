@@ -1,0 +1,7 @@
+﻿project/English/checkpoints/
+project/Telugu/checkpoints/
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
